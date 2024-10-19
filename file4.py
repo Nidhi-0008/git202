@@ -1,2 +1,1 @@
-fruit = "apple"
-print("I like to eat {}").format(fruit)
+print("I like to eat blueberries")
